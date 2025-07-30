@@ -58,15 +58,12 @@ barrel-shifter-vivado/
 
 ---
 
-
 ## 🧾 RTL Schematic
 
-![RTL Schematic](schematic/rtl_schematic.png)
 <img width="1499" height="652" alt="schematics" src="https://github.com/user-attachments/assets/fced6c06-09d1-46a5-9bd9-c63e89253152" />
 
 ## 📷 Simulation Output
 
-![Simulation Waveform](simulation/simulation_waveform.png)
 <img width="1489" height="578" alt="simulation" src="https://github.com/user-attachments/assets/570a9a9f-aac2-4dd9-a9b0-7eeff954ea32" />
 
 ---
