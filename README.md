@@ -36,7 +36,6 @@ barrel-shifter-vivado/
 │   ├── schematic.png
 │   └── simulation.png
 ├── README.md # Project documentation
-├── .gitignore # Ignores Vivado-generated files
 └── LICENSE # MIT License
 
 ---
