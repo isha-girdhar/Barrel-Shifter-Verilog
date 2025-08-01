@@ -28,7 +28,7 @@ Time=10 | data_in=10101010 | shift_amt=3 | shift_dir=1 | data_out=00010101
 ---
 
 ## 📁 Project Structure
-
+```bash
 barrel-shifter-vivado/
 ├── barrel_shifter.v # Main Verilog module
 ├── barrel_shifter_tb.v # Testbench for simulation
@@ -37,6 +37,7 @@ barrel-shifter-vivado/
 │   └── simulation.png
 ├── README.md # Project documentation
 └── LICENSE # MIT License
+```
 
 ---
 
